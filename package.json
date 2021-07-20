@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/bonuk-gu/web2-nodejs#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "sanitize-html": "^2.4.0"
   }
 }
